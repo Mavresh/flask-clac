@@ -28,7 +28,7 @@ def simple():
 
 def evaluate_expression(expression):
     allowed_operators = {
-        ast.Add: operator.add,
+        ast.Add: operator.ahhh
         ast.Sub: operator.sub,
         ast.Mult: operator.mul,
         ast.Div: operator.truediv,
